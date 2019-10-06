@@ -7,7 +7,9 @@ public class Practice1_1 {
 	
 	//순차적 구조 알고리즘
 	public static void main(String[] args) {
+		//System.in - 키보드와 연결된 표준 입력 스트림(Stamdard input Stream)
 		Scanner stdIn = new Scanner(System.in);
+		
 		
 		System.out.println("세 정수의 최댓값을 구합니다.");
 		System.out.println("a의 값 :"); int a = stdIn.nextInt();
