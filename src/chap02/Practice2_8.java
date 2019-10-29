@@ -3,6 +3,7 @@ package chap02;
 import java.util.Scanner;
 
 // 실습 2-8 [A] [B]
+// 진법 변환 알고리즘
 public class Practice2_8 {
 	
 	static int cardConvR(int x, int r, char[] d) {
